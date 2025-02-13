@@ -1,4 +1,4 @@
 function radomFunction() {
-  console.log("this is not a function");
+  console.log("this is actually a function");
   return;
 }
